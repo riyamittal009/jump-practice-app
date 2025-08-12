@@ -1,1 +1,0 @@
-# jump-practice-app
